@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumir.Model", "..\Kumir.Model\Kumir.Model.csproj", "{53FB0DD5-8DF9-4D1A-BC2A-2E63B7015C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumir.DataLayer", "..\Kumir.DataLayer\Kumir.DataLayer.csproj", "{A1C0D520-080A-4682-917D-F950DE21B12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumir.NetworkLayer", "..\Kumir.NetworkLayer\Kumir.NetworkLayer.csproj", "{3FFE54FB-AC70-4545-9FEB-2A70F915E7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumir.NetworkLayer.TCP", "..\Kumir.NetworkLayer.TCP\Kumir.NetworkLayer.TCP.csproj", "{A976243D-D4AB-40BB-A765-C761C7465AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumir.WinForms.Server", "Kumir.WinForms.Server.csproj", "{3A3B5B0B-24B0-4D82-917B-CCB14873E7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumir.WinForms.Client", "Kumir.WinForms.Client\Kumir.WinForms.Client.csproj", "{2D740D1F-267F-4C2E-BEAF-EDA96F4DA1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FB0DD5-8DF9-4D1A-BC2A-2E63B7015C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FB0DD5-8DF9-4D1A-BC2A-2E63B7015C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FB0DD5-8DF9-4D1A-BC2A-2E63B7015C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FB0DD5-8DF9-4D1A-BC2A-2E63B7015C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C0D520-080A-4682-917D-F950DE21B12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C0D520-080A-4682-917D-F950DE21B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C0D520-080A-4682-917D-F950DE21B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C0D520-080A-4682-917D-F950DE21B12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFE54FB-AC70-4545-9FEB-2A70F915E7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFE54FB-AC70-4545-9FEB-2A70F915E7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFE54FB-AC70-4545-9FEB-2A70F915E7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFE54FB-AC70-4545-9FEB-2A70F915E7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A976243D-D4AB-40BB-A765-C761C7465AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A976243D-D4AB-40BB-A765-C761C7465AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A976243D-D4AB-40BB-A765-C761C7465AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A976243D-D4AB-40BB-A765-C761C7465AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3B5B0B-24B0-4D82-917B-CCB14873E7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3B5B0B-24B0-4D82-917B-CCB14873E7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3B5B0B-24B0-4D82-917B-CCB14873E7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3B5B0B-24B0-4D82-917B-CCB14873E7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D740D1F-267F-4C2E-BEAF-EDA96F4DA1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D740D1F-267F-4C2E-BEAF-EDA96F4DA1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D740D1F-267F-4C2E-BEAF-EDA96F4DA1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D740D1F-267F-4C2E-BEAF-EDA96F4DA1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
